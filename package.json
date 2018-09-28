@@ -2,6 +2,9 @@
   "name": "heroapp",
   "version": "1.0.0",
   "description": "this is my app work for heroku deployement",
+  "engines": {
+    "node": "8.11.1"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
